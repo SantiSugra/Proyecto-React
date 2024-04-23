@@ -10,8 +10,8 @@ function App() {
       <Brand/>
       <NavBar/>
       </div>
-      <div>
-        <ItemListContainer saludo = "Bueenas" />
+      <div className='container-list'>
+        <ItemListContainer saludo = "Bueenas" className='textcontainer' />
       </div>
     </div>
   )

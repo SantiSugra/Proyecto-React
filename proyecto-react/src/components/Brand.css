@@ -1,0 +1,7 @@
+.brandclass {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-sizing: border-box;
+    align-items:flex-start;
+    text-align: center;
+    padding-left: 15px;
+}
