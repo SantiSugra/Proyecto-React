@@ -1,0 +1,7 @@
+.categorylist-container {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 20px;
+    padding-right: 35px;
+}
